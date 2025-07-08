@@ -1,7 +1,6 @@
 {
   "name": "Cold Company (IF)",
   "id": "civmc/imperialfedeation/territory/coldcompany",
-  "notes": "A territory of the Imperial Federation.",
   "polygons": [
     [
       [ -2876, 2263 ],
@@ -228,5 +227,6 @@
       [ -1603, -6482 ],
       [ -1591, -6482 ]
     ]
-  ]
+  ],
+  "notes": "A territory of the Imperial Federation."
 }
